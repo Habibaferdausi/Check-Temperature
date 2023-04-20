@@ -11,7 +11,7 @@ This is a simple website that allows users to check the current temperature in v
 
 ## 🔗 Link
 
-[Check Temperature]](https://habibaferdausi.github.io/Check-Temperature)
+[Check Temperature](https://habibaferdausi.github.io/Check-Temperature)
 
 
 
